@@ -20,3 +20,4 @@ elif res_data['quickRedeemDamtUp'] and res_data[
     tag_list.append('quick_redeem')
 
 print(tag_list)
+print(11)
